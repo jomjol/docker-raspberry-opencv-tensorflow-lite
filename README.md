@@ -1,3 +1,5 @@
+<span style="color: red;">This code is depreciated and will not be maintained any more!</span> 
+
 # docker-raspberry-opencv-tensorflow-lite
  Docker image with Tensorflow **Lite** and OpenCV for Raspberry
  
